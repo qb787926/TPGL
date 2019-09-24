@@ -7,6 +7,7 @@ public class Orange{
 		Orange o1= new Orange(1.20,"Argentine");
 		System.out.println(o1.getPrix());
 		System.out.println(o1.getOrigine());
+		System.out.println("On test");
 	}
 	
 	public Orange(double p, String o){
