@@ -8,6 +8,7 @@ public class Orange{
 		System.out.println(o1.getPrix());
 		System.out.println(o1.getOrigine());
 		System.out.println("On test");
+		System.out.println("On test encore");
 	}
 	
 	public Orange(double p, String o){
